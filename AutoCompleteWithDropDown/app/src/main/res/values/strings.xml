@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoCompleteWithDropDown</string>
+    <string name="hint">pick a color of ur choosing</string>
+    <string name="red">Red</string>
+    <string-array name="colorsRes">
+        <item>Purple</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+</resources>
