@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EarthquakeFeed</string>
+    <string name="btn_start">START</string>
+    <string name="quake_feed">http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.quakeml</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
